@@ -1,15 +1,15 @@
 ############ + Operator ############
 
-# both operators needs to be string type
+# both operators needs to be strings type
 
 s='Python'+'engineer' # valid
-#s='Python'+10        # Invalid --> both needs to be string in python
+#s='Python'+10        # Invalid --> both needs to be strings in python
 
 
 
 ########### * Operator  ###############
 
-# one operator needs to be int and other one string type
+# one operator needs to be int and other one strings type
 
 s = 'Python Engineer' * 3 # Valid
 s = 3 * 'Python Engineer' # also valid

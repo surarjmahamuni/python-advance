@@ -1,4 +1,4 @@
-#split(operator) is used to split given string based on operator/delimiter and returns list as output
+#split(operator) is used to split given strings based on operator/delimiter and returns list as output
 
 #seprator.join(): it joins the given operator based on the separator you specified
 

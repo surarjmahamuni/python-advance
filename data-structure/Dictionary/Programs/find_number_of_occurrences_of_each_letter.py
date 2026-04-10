@@ -1,6 +1,6 @@
-# Program: write a program to calculate the number of occurrences of each letter within given string.
+# Program: write a program to calculate the number of occurrences of each letter within given strings.
 
-input_string=input("Enter the string: ")
+input_string=input("Enter the strings: ")
 
 char_frequency={}
 
@@ -16,7 +16,7 @@ for letter,count in char_frequency.items():
 
 
 # Output:
-# Enter the string: ADKSFKND
+# Enter the strings: ADKSFKND
 # A -> 1
 # D -> 2
 # K -> 2

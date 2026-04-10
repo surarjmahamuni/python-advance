@@ -1,4 +1,4 @@
-# there are so many methods in string we can use to find what types of character the given string contains
+# there are so many methods in strings we can use to find what types of character the given strings contains
 
 #isalpha()
 print("AbCdeF".isalpha())

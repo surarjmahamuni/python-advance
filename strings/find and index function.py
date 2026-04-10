@@ -4,10 +4,10 @@ s1= "Banana"
 #    012345
 #    ----->
 
-print(s1.find('z')) # index -1 --> not in the string
+print(s1.find('z')) # index -1 --> not in the strings
 
 print(s1.find('a')) # 1 --> left to right
-print(s1.rfind('n')) # 4 --> first occurrence of letter in the string from right side and its index from right side
+print(s1.rfind('n')) # 4 --> first occurrence of letter in the strings from right side and its index from right side
 
 print(s1.find('a',3,5)) # index 3 to 4  --> 3
 print(s1.rfind('b',1,5)) # index 1 to 4  --> -1 --> not there

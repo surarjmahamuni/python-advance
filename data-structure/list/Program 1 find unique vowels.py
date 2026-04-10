@@ -1,6 +1,6 @@
-# write a program to find unique vowels present in the given string
+# write a program to find unique vowels present in the given strings
 
-str1 = input("Enter the string: ")
+str1 = input("Enter the strings: ")
 
 ##### Using List Comprehension  ########
 

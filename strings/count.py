@@ -1,4 +1,4 @@
-# we can find the number of occurrences of substring in a given string
+# we can find the number of occurrences of substring in a given strings
 
 s1="abcabcabc"
 

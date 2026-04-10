@@ -9,11 +9,11 @@ s2='This is programming language'
 print(s2.replace(" ","")) #Thisisprogramminglanguage
 
 #we can use count() function to count number of spaces
-print("Number of spaces in string: ",s2.count(" "))  # 3
+print("Number of spaces in strings: ",s2.count(" "))  # 3
 
 #or we can use replace
 
-print("Number of spaces in string: ",( len(s2) - len( s2.replace(" ","") )))  # 3
+print("Number of spaces in strings: ",( len(s2) - len( s2.replace(" ","") )))  # 3
 
-# replace() function always creates new string object
+# replace() function always creates new strings object
 

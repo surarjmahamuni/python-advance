@@ -27,7 +27,7 @@ print("capitalize(): ",s1.capitalize())
 
 ##################################################################
 
-#write a program to compare two string s1 and s2 are equal or not
+#write a program to compare two strings s1 and s2 are equal or not
 print()
 
 
@@ -35,9 +35,9 @@ s1="Apple"
 s2="apple"
 
 if s1==s2:
-    print("Both string are same")
+    print("Both strings are same")
 else:
-    print("Both string are different")
+    print("Both strings are different")
 
 
 # we can make s1 and s2 either uppercase or lowercase if case doesnt matter in comparison
@@ -61,10 +61,10 @@ else:
 
 ##########################################################################
 
-#write a program to convert first and last character of the string into uppercase
+#write a program to convert first and last character of the strings into uppercase
 
-str1=input("Enter a string: ")
+str1=input("Enter a strings: ")
 
 
 output = str1[0].upper() + str1[1:len(str1)-1].lower() + str1[len(str1)-1].upper()
-print("output string is: ",output)
+print("output strings is: ",output)

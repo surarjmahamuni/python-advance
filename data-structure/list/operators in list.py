@@ -1,4 +1,4 @@
-## we are going to see multiple mathematical operators we can use with the list data structure
+## we are going to see multiple mathematical operators we can use with the list data-structure
 
 ###########  Concatenation operator (+)  ##########
 

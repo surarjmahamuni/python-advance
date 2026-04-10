@@ -1,14 +1,14 @@
-# Program: write a program to count number of occurrences of each vowel in the given string
+# Program: write a program to count number of occurrences of each vowel in the given strings
 
 def count_vowel_frequency(input_string):
     """
-    Count frequency of each vowel in the string
+    Count frequency of each vowel in the strings
     """
 
     vowel_frequency = {}
     vowels={'a','e','i','o','u'}
 
-    # Iterate the input string
+    # Iterate the input strings
     for char in input_string:
         if char in vowels:
             vowel_frequency[char] = vowel_frequency.get(char, 0) + 1
@@ -19,7 +19,7 @@ def count_vowel_frequency(input_string):
 
 
 # User input
-input_string=input("Enter a string: ").lower()
+input_string=input("Enter a strings: ").lower()
 
 # Get vowel frequency
 v_frequency=count_vowel_frequency(input_string)
