@@ -14,3 +14,11 @@ for item in students.items():
 print("Sum of all students marks is: ",totalmarks)
 
 #o/p: Sum of all students marks is:  334
+
+
+#----
+# or
+#----
+
+print("Sum of all students marks using sum() function is: ",sum(students.values()))
+#o/p: Sum of all students marks using sum() function is:  334
